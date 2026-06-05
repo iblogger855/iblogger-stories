@@ -13,6 +13,7 @@
 - [២. ធម្មជាតិ/សារធាតុ ទល់នឹង តួអង្គ (Essence vs. Person)](#2)
 - [៣. ការពន្យល់ពីតួអង្គទាំងបី (The Three Persons Explained)](#3)
 - [៤. ឧទាហរណ៍ប្រៀបធៀប និងដែនកំណត់ (Analogies and Limitations)](#4)
+- [៥. ការពន្យល់បែបសាមញ្ញ (ELI5 Explanation)](#4-1)
 - [ឯកសារយោង (References)](#5)
 
 ---
@@ -65,6 +66,21 @@ While no earthly comparison is perfect, these analogies offer helpful frameworks
     *   *Water:* Exists as solid (ice), liquid (water), and gas (vapor). They have different properties but share the exact same chemical substance ($H_2O$).
 2.  **ពន្លឺព្រះអាទិត្យ (Sunlight):** ព្រះអាទិត្យ (ព្រះវរបិតា) បង្កើតពន្លឺដែលយើងមើលឃើញ (ព្រះរាជបុត្រា) និងកំដៅដែលយើងប៉ះដឹង (ព្រះវិញ្ញាណបរិសុទ្ធ)។ ទាំងបីនេះមិនអាចផ្តាច់ចេញពីគ្នាបានឡើយ។
     *   *Sunlight:* The sun star (Father) generates light we see (Son) and heat we feel (Holy Spirit). They are distinct phenomena but inseparable from the sun.
+
+---
+
+<a id="4-1"></a>
+## ៥. ការពន្យល់បែបសាមញ្ញ (ELI5 Explanation)
+
+ដើម្បីយល់ពីព្រះត្រីឯកឱ្យកាន់តែងាយស្រួល សូមស្រមៃគិតអំពី **ស្លឹកត្របៀតមួយធាងដែលមានស្លឹកបី (Three-leaf Clover)**៖
+*   ស្លឹកនីមួយៗគឺដាច់ឡែកពីគ្នា (ស្លឹកទី ១ មិនមែនជាស្លឹកទី ២ ឡើយ)។
+*   ប៉ុន្តែពួកវាទាំងអស់រួមបញ្ចូលគ្នាបង្កើតបានជាស្លឹកត្របៀតតែមួយគត់។
+*   ក្នុងន័យដូចគ្នានេះ ព្រះវរបិតា ព្រះរាជបុត្រា និងព្រះវិញ្ញាណបរិសុទ្ធ គឺជាតួអង្គបីផ្សេងគ្នា ប៉ុន្តែរួមគ្នាជាព្រះតែមួយព្រះអង្គគត់។
+
+To understand the Trinity simply, imagine a **three-leaf clover**:
+*   Each of the three leaves is distinct (leaf A is not leaf B).
+*   Yet, they all share the same stem and make up one single clover.
+*   In the same way, the Father, Son, and Holy Spirit are three distinct Persons, but they are all one God.
 
 ---
 
