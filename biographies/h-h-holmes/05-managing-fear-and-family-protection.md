@@ -21,6 +21,8 @@
 
 ---
 
+![ការរស់នៅជាលក្ខណៈឯកជន និងសុវត្ថិភាពរបស់ក្រុមគ្រួសារលោក Geyer (Detective Geyer's Secure and Private Family Life in Philadelphia)](family_protection.png)
+
 <a id="0"></a>
 ## សេចក្តីផ្តើម៖ ភាពភ័យខ្លាច និងការងារស៊ើបអង្កេត (Intro: The Reality of Fear in Criminal Detection)
 
