@@ -37,6 +37,8 @@ This premiere episode establishes the psychological foundations of young Herman 
 **សកម្មភាព៖** កុមារ Herman Mudgett (អាយុ ៩ ឆ្នាំ) កំពុងអង្គុយក្បែរឡភ្លើងដែលជិតរលត់។ ឪពុករបស់គេគឺ Levi Mudgett (បុរសមាឌធំ សំឡេងខ្លាំង និងតឹងរ៉ឹង) ដើរចូលមកដោយកាន់រំពាត់ធំមួយ។ គ្មានពាក្យសម្តីកក់ក្តៅឡើយ មានតែការទាមទារវិន័យដ៏ព្រៃផ្សៃ។  
 **Action:** Young Herman Mudgett (9 years old) sits shivering by a dying hearth. His father, Levi Mudgett—a large, stern Puritan—enters holding a leather strap. There are no warm words, only the cold imposition of brutal, religious discipline.
 
+![កុមារ Herman Mudgett វ័យ ៩ ឆ្នាំ អង្គុយក្បែរឡភ្លើងដែលជិតរលត់ សម្លឹងមើលឪពុកដែលកំពុងខឹងសម្បារ (Young Herman Mudgett, 9 Years Old, Sitting Shivering by a Dying Hearth, Looking up at His Father)](../cold_homestead.png)
+
 *   **ឡេវី មូដជិត (Levi Mudgett)៖** "Herman! ឯងមិនបានរៀបចំអុសសម្រាប់ថ្ងៃស្អែកទេ! ភាពខ្ជិលច្រអូសគឺជាមាត់ច្រកនៃអារក្ស!"  
     *   *"Herman! You left the woodpile dry for tomorrow! Idleness is the devil's playground!"*
 *   **ហឺមែន វ័យក្មេង (Young Herman)៖** "កូន... កូនសុំទោសលោកពុក។ កូនរវល់តែអានសៀវភៅ..."  
@@ -78,6 +80,8 @@ This premiere episode establishes the psychological foundations of young Herman 
 
 **សកម្មភាព៖** ហឺមែន អាយុ ១២ ឆ្នាំ កំពុងអង្គុយម្នាក់ឯងនៅលើដងឈើដួល។ នៅពីមុខគេមានតុឈើច្នៃមួយដែលមានសត្វកណ្តុរ និងសត្វព្រាបងាប់។ គេប្រើឡាម និងកាំបិតតូចៗវះកាត់ពួកវាដោយភាពស្ងប់ស្ងាត់បំផុត។  
 **Action:** Herman, now 12, sits alone on a fallen log. Before him is a makeshift wooden bench with dead mice and forest birds. He uses a razor and small scalpel to dissect them with surgical precision and calmness.
+
+![កុមារ Herman Mudgett វ័យ ១២ ឆ្នាំ កំពុងអង្គុយវះកាត់សាកសពសត្វបក្សីងាប់នៅក្នុងព្រៃស្ងប់ស្ងាត់ (Herman Mudgett, 12 Years Old, Sitting Alone on a Log Dissecting a Dead Bird in the Woods)](../woods_dissection.png)
 
 *   **ហឺមែន (Herman)៖** (និយាយម្នាក់ឯងតិចៗ) "សាច់ ឆ្អឹង និងសរសៃឈាម... គ្មានព្រលឹងពិតប្រាកដទេ។ មានតែយន្តការម៉ាស៊ីនប៉ុណ្ណោះ។"  
     *   *"Flesh, bone, and vessels... there is no soul. Just a machine."*
