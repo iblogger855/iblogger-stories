@@ -47,5 +47,10 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
     *   *KH*: បង្ហាញពីកុមារភាពរងការធ្វើបាបរបស់ Herman Mudgett និងការស៊ាំនឹងសាកសពដំបូង។
     *   *EN*: Explores young Herman Mudgett's abusive childhood and his early, morbid fascination with animal anatomy and skeletons.
 
+## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
+*   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**
+    *   *KH*: វិភាគពីអំពើហឹង្សាកុមារភាព យន្តការបំបែកចិត្ត និងការវះកាត់សត្វរបស់ Young Herman តាមរយៈកែវភ្នែកនៃក្តីស្រឡាញ់ និងសេចក្តីទុក្ខសោករបស់ព្រះវរបិតា និងព្រះយេស៊ូវ។
+    *   *EN*: Analyzes the childhood abuse, psychological dissociation, and animal dissections of Young Herman through the eyes of the Father's and Jesus' grieving love.
+
 
 
