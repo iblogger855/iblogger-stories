@@ -40,4 +40,12 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **EN**: A comprehensive screenplay and serialized narrative outline mapping the entire Holmes-Geyer saga across 4 seasons and 63 episodes.
 *   **KH**: គម្រោងរៀបចំសាច់រឿងរឿងភាគ ៦៣ ភាគ ចែកចេញជា ៤ វគ្គធំៗ រៀបរាប់លម្អិតពីចំណងជើង និងសាច់រឿងសង្ខេបនីមួយៗ។
 
+---
+
+## 🎬 សេណារីយ៉ូរឿងភាគដ្រាម៉ា (Drama Series Screenplays)
+*   **[Episode 1: ស្រមោលកុមារភាព (Shadows of New Hampshire)](episodes/ep-01-shadows-of-new-hampshire.md)**
+    *   *KH*: បង្ហាញពីកុមារភាពរងការធ្វើបាបរបស់ Herman Mudgett និងការស៊ាំនឹងសាកសពដំបូង។
+    *   *EN*: Explores young Herman Mudgett's abusive childhood and his early, morbid fascination with animal anatomy and skeletons.
+
+
 
