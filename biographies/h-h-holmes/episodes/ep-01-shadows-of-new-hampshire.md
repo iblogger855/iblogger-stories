@@ -159,3 +159,4 @@ Episode 1 concludes with Herman gazing at his animal dissection blueprints, his 
 *   [យន្តការអាជីវកម្មឧក្រិដ្ឋកម្មរបស់ H.H. Holmes](../06-holmes-crime-business-model.md) — វិភាគរបៀបរៀបចំផែនការ និងដំណើរការឧក្រិដ្ឋកម្មជាអាជីវកម្មបែបឧស្សាហកម្ម។
 *   [ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](../theology/ep-01-divine-perspective.md) — វិភាគ និងសញ្ជឹងគិតលើជីវិតកុមារភាពរបស់ Herman តាមរយៈទស្សនៈព្រះគម្ពីរប៊ីប។
 *   [ទស្សនៈព្រះពុទ្ធសាសនាលើរឿងភាគទី ១ (Buddhist Perspective on Episode 1)](../theology/ep-01-buddhist-perspective.md) — វិភាគ និងសញ្ជឹងគិតលើជីវិតរបស់ Herman តាមរយៈទស្សនៈព្រះពុទ្ធសាសនា។
+*   [Episode 2: ការលះបង់របស់ Clara (Clara's Sacrifice)](ep-02-claras-sacrifice.md) — ស្គ្រីបភាគទី ២ ដែលជាការកសាងជីវិតអាពាហ៍ពិពាហ៍ដំបូងរបស់ Herman Mudgett។

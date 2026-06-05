@@ -46,6 +46,9 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 1: ស្រមោលកុមារភាព (Shadows of New Hampshire)](episodes/ep-01-shadows-of-new-hampshire.md)**
     *   *KH*: បង្ហាញពីកុមារភាពរងការធ្វើបាបរបស់ Herman Mudgett និងការស៊ាំនឹងសាកសពដំបូង។
     *   *EN*: Explores young Herman Mudgett's abusive childhood and his early, morbid fascination with animal anatomy and skeletons.
+*   **[Episode 2: ការលះបង់របស់ Clara (Clara's Sacrifice)](episodes/ep-02-claras-sacrifice.md)**
+    *   *KH*: បង្ហាញពីអាពាហ៍ពិពាហ៍ដំបូងរបស់ Holmes ជាមួយនាង Clara Lovering និងការកេងប្រវ័ញ្ចហិរញ្ញវត្ថុគ្រួសារនាងដើម្បីបង់ថ្លៃសាលាពេទ្យ មុនពេលបោះបង់នាងចោល។
+    *   *EN*: Explores Holmes' first marriage to Clara Lovering, exploiting her family's wealth to fund his medical studies before abandoning her.
 
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**
