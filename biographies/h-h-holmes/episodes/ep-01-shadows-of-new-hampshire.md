@@ -58,6 +58,8 @@ This premiere episode establishes the psychological foundations of young Herman 
 **សកម្មភាព៖** ក្មេងទំនើងសាលាពីរនាក់បានចាប់ទាញ Herman ចូលទៅក្នុងបន្ទប់ងងឹតមួយក្នុងគ្លីនិករបស់គ្រូពេទ្យភូមិ។ ពួកគេបង្ខំឱ្យគេប្រឈមមុខនឹងគ្រោងឆ្អឹងមនុស្សពិតដែលព្យួរនៅកាច់ជ្រុងបន្ទប់ ដើម្បីបន្លាចគេ។  
 **Action:** Two school bullies drag young Herman into the dark backroom of the local doctor's clinic. They force him face-to-face with a real, articulated human skeleton hanging in the corner to terrify him.
 
+![កុមារ Herman Mudgett ប្រឈមមុខនឹងគ្រោងឆ្អឹងនៅក្នុងគ្លីនិកងងឹត (Young Herman Mudgett Confronting the Skeleton in the Dark Office)](../young_mudgett_skeleton.png)
+
 *   **ក្មេងទំនើងទី ១ (Bully 1)៖** "មើលវាទៅ Herman! នេះជាអ្វីដែលកើតឡើងចំពោះមនុស្សកំសាកដូចជាឯង!"  
     *   *"Look at it, Herman! This is what happens to cowards like you!"*
 *   **ហឺមែន វ័យក្មេង (Young Herman)៖** (ស្រែកយំ និងភ័យខ្លាចជាខ្លាំង) "ទេ! លែងខ្ញុំ! យកវាចេញទៅ!"  
