@@ -75,7 +75,7 @@ From a Buddhist perspective, contemplating a skeleton is akin to practicing **As
 <a id="3"></a>
 ## ៣. ធម្មជាតិនៃជីវិត៖ យន្តការម៉ាស៊ីន ឬជារបូរនៃខន្ធប្រាំ? (The Nature of Life: Machine vs. Flow of the Five Aggregates)
 
-នៅអាយុ ១២ ឆ្នាំ Herman វះកាត់សត្វតូចៗនៅក្នុងព្រៃស្ងប់ស្ងាត់ (Scene 3) ហើយសន្និដ្ឋានថា៖ «សាច់ ឆ្អឹង និងសរសៃឈាម... គ្មានព្រលឹងពិតប្រាកដទេ។ មានតែយន្តការម៉ាស៊ីនប៉ុណ្ណោះ»។
+នៅអាយុ ១២ ឆ្នាំ Herman វះកាត់សត្វតូច ៗ នៅក្នុងព្រៃស្ងាត់ជ្រងំ (Scene 3) ហើយសន្និដ្ឋានថា៖ «សាច់ ឆ្អឹង និងសរសៃឈាម... គ្មានព្រលឹងពិតប្រាកដទេ។ មានតែយន្តការម៉ាស៊ីនប៉ុណ្ណោះ»។
 
 At age 12, Herman dissects small animals in the quiet woods (Scene 3) and concludes: "Flesh, bone, and vessels... there is no soul. Just a machine."
 
@@ -93,7 +93,7 @@ By reducing living creatures to mere mechanical parts, Herman falls into deep Mo
 <a id="4"></a>
 ## ៤. សេចក្តីសន្និដ្ឋាន៖ ការសាបសូន្យនៃសតិ និងមេត្តាធម៌ (Conclusion: The Extinction of Mindfulness and Compassion)
 
-ព្រះធម៌បង្រៀនថា ចិត្តជាប្រធាន ចិត្តជាធំ អ្វីៗសម្រេចមកពីចិត្ត (ធម្មបទ គាថា ១)។ ជីវិតកុមារភាពរបស់ Herman Mudgett គឺជាសង្វាក់នៃ **ហេតុ និងបច្ច័យ (Hetu-paccaya)** ដ៏សោកសៅបំផុត។ អំពើហិង្សារបស់ឪពុក និងការធ្វើបាបពីមិត្តភក្តិ គឺជាបច្ច័យអាក្រក់ដែលជំរុញឱ្យចិត្តរបស់គេបង្កើតជាកំហឹង និងការស្អប់ខ្ពើម។ ប៉ុន្តែជំនួសឱ្យការប្រើប្រាស់ «សតិ» (Mindfulness) ដើម្បីស្វែងរកការរំដោះទុក្ខ គេបែរជាជ្រើសរើសផ្លូវ «បំបែកអារម្មណ៍» និង «លុបបំបាត់ក្តីមេត្តា» ដើម្បីការពារខ្លួន។
+ព្រះធម៌បង្រៀនថា ចិត្តជាប្រធាន ចិត្តជាធំ អ្វី ៗ សម្រេចមកពីចិត្ត (ធម្មបទ គាថា ១)។ ជីវិតកុមារភាពរបស់ Herman Mudgett គឺជាសង្វាក់នៃ **ហេតុ និងបច្ច័យ (Hetu-paccaya)** ដ៏សោកសៅបំផុត។ អំពើហិង្សារបស់ឪពុក និងការធ្វើបាបពីមិត្តភក្តិ គឺជាបច្ច័យអាក្រក់ដែលជំរុញឱ្យចិត្តរបស់គេបង្កើតជាកំហឹង និងការស្អប់ខ្ពើម។ ប៉ុន្តែជំនួសឱ្យការប្រើប្រាស់ «សតិ» (Mindfulness) ដើម្បីស្វែងរកការរំដោះទុក្ខ គេបែរជាជ្រើសរើសផ្លូវ «បំបែកអារម្មណ៍» និង «លុបបំបាត់ក្តីមេត្តា» ដើម្បីការពារខ្លួន។
 
 The Buddha teaches that the mind is the forerunner of all states, and that all actions are shaped by our thoughts (Dhammapada Verse 1). The early life of Herman Mudgett is a tragic chain of **Cause and Conditions (Hetu-paccaya)**. His father's cruelty and the school bullying were unwholesome conditions that induced states of aversion and fear in his young mind. However, instead of cultivating mindfulness (Sati) to heal and understand suffering, Herman constructed a shield of dissociation, extinguishing his capacity for loving-kindness (Mettā) and compassion (Karuṇā).
 
