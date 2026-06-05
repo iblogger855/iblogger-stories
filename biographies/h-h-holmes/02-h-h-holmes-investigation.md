@@ -145,23 +145,24 @@ Geyer តាមដាន​ដានជើង​ទៅដល់​ទីក្�
   },
   'themeCSS': 'svg { background-color: #1e1e1e !important; padding: 1rem !important; border-radius: 8px !important; } .edgeLabel rect { fill: #1e1e1e !important; } text, tspan { fill: #ffffff !important; } .messageText, .messageText tspan, .signalText, .signalText tspan { fill: #ffffff !important; stroke: #1e1e1e !important; stroke-width: 3px !important; paint-order: stroke fill !important; stroke-linejoin: round !important; }'
 }}%%
-sequenceDiagram
-    participant FM as Fidelity Mutual
-    participant PK as Pinkerton Agents
-    participant FG as Det. Frank Geyer
-    participant HH as H.H. Holmes
+graph TD
+    A["ឃាតកម្មលើ Pitezel<br/>(Sept 1894)<br/>Pitezel Murder"] --> B["Pinkertons តាមប្រមាញ់<br/>Interstate Manhunt"]
+    B --> C["ចាប់ខ្លួននៅ Boston<br/>(Nov 1894)<br/>Arrest in Boston"]
+    C --> D["Frank Geyer ស៊ើបអង្កេត<br/>Geyer Investigation"]
+    D --> E["រកឃើញ Alice & Nellie<br/>(Toronto)<br/>Bodies in Toronto"]
+    D --> F["រកឃើញ Howard<br/>(Indianapolis)<br/>Howard's Remains"]
+    E --> G["ប្រមូលភស្តុតាង<br/>ចោទប្រកាន់ Holmes<br/>Evidence Gathered"]
+    F --> G
+    G --> H["ការប្រហារជីវិត<br/>(May 1896)<br/>Holmes Executed"]
 
-    HH->>FM: ទាមទារលុយធានារ៉ាប់រង (Pitezel)
-    Note over FM: សង្ស័យពីការក្លែងបន្លំស្លាប់
-    FM->>PK: ជួលភ្នាក់ងារឱ្យតាមប្រមាញ់
-    PK->>HH: តាមដានឆ្លងរដ្ឋ (Texas-St.Louis-Boston)
-    PK->>HH: ចាប់ខ្លួននៅ Boston (វិច្ឆិកា 1894)
-    Note over FG: ទទួលភារកិច្ចស្វែងរកកុមារ Pitezel
-    FG->>HH: វិភាគសំបុត្រ និងតាមដានដានជើង
-    FG->>FG: រកឃើញ Alice & Nellie (Toronto)
-    FG->>FG: រកឃើញ Howard (Indianapolis)
-    FG->>HH: ប្រមូលភស្តុតាងចោទប្រកាន់ពីបទឃាតកម្ម
-    Note over HH: តុលាការកាត់ទោសព្យួរក (1896)
+    style A fill:#2980b9,color:#fff
+    style B fill:#2980b9,color:#fff
+    style C fill:#2980b9,color:#fff
+    style D fill:#2980b9,color:#fff
+    style E fill:#e74c3c,color:#fff
+    style F fill:#e74c3c,color:#fff
+    style G fill:#27ae60,color:#fff
+    style H fill:#27ae60,color:#fff
 ```
 
 ---
