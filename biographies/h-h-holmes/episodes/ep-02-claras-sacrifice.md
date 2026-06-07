@@ -180,6 +180,7 @@ Episode 2 concludes with Herman sitting on the train, gazing toward Ann Arbor wi
 <a id="7"></a>
 ## 🔗 ឯកសារទាក់ទង (Related Topics)
 *   **[Episode 1: ស្រមោលកុមារភាព (Shadows of New Hampshire)](ep-01-shadows-of-new-hampshire.md)** — ស្គ្រីបភាគទី ១ ដែលជាសាច់រឿងគ្រឹះនៃកុមារភាពរបស់ Young Herman។
+*   **[Episode 3: មន្ទីរពិសោធន៍ខ្មៅងងឹត (The Cadaver Market)](ep-03-the-cadaver-market.md)** — ស្គ្រីបភាគទី ៣ ដែលជាដំណាក់កាលរៀនពេទ្យ និងការបោកធានារ៉ាប់រងដំបូងរបស់ Herman Mudgett។
 *   **[បញ្ជីវាស់វែងវិន័យ (Discipline Ledger)](../keyword/discipline-ledger.md)** — យន្តការតាមដាន និងគ្រប់គ្រងចិត្តសាស្ត្រសិស្សក្នុងសាលារៀនរបស់ Herman Mudgett។
 *   **[លំហូរនៃធនធាន និងការរៀបចំយន្តការ (Flow of Resources and Mechanics)](../keyword/flow-of-resources-and-mechanics.md)** — ទស្សនៈបែបសម្ភារៈនិយមជ្រុលរបស់ Herman Mudgett ដែលចាត់ទុកជីវិតសត្វលោកជាវត្ថុ។
 *   **[ភាពទន់ជ្រាយផ្លូវចិត្ត (Emotional Sentimentality)](../keyword/emotional-sentimentality.md)** — ការបដិសេធរបស់ Herman Mudgett ចំពោះមនោសញ្ចេតនា និងក្តីស្រឡាញ់របស់មនុស្ស។

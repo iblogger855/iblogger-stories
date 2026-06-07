@@ -49,6 +49,9 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 2: ការលះបង់របស់ Clara (Clara's Sacrifice)](episodes/ep-02-claras-sacrifice.md)**
     *   *KH*: បង្ហាញពីអាពាហ៍ពិពាហ៍ដំបូងរបស់ Holmes ជាមួយនាង Clara Lovering និងការកេងប្រវ័ញ្ចហិរញ្ញវត្ថុគ្រួសារនាងដើម្បីបង់ថ្លៃសាលាពេទ្យ មុនពេលបោះបង់នាងចោល។
     *   *EN*: Explores Holmes' first marriage to Clara Lovering, exploiting her family's wealth to fund his medical studies before abandoning her.
+*   **[Episode 3: មន្ទីរពិសោធន៍ខ្មៅងងឹត (The Cadaver Market)](episodes/ep-03-the-cadaver-market.md)**
+    *   *KH*: Herman ចូលរៀនសាលាពេទ្យនៅ Michigan ដោយសិក្សាពីប្រភពផ្គត់ផ្គង់សាកសពនៃទីផ្សារងងឹត និងចាប់ផ្តើមធ្វើពិសោធន៍បោកប្រាស់ធានារ៉ាប់រងលើកដំបូង។
+    *   *EN*: Herman enters the University of Michigan Medical School, learning the corpse supply chain from the anatomy lab black market, and launches his first insurance fraud experiment.
 
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**
