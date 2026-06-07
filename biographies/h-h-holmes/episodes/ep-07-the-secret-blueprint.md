@@ -38,7 +38,7 @@ This seventh episode is based on the documented historical case study of the con
 **សកម្មភាព៖** Holmes អង្គុយនៅតុសរសេររបស់គេ ក្រោមពន្លឺចង្អៀតនៃចង្កៀងប្រេងកាត។ នៅលើតុមានក្រដាសគំនូរប្លង់ធំ ៗ បន្ទាត់ និងដែកឈូស។ គេកំពុងគូសខ្សែបន្ទាត់ជញ្ជាំង និងច្រកផ្លូវដោយដៃដ៏ស្ងប់ស្ងាត់។ គំនូរប្លង់មិនមានលក្ខណៈដូចប្លង់ស្ថាបត្យកម្មទូទៅឡើយ គឺវាត្រូវបានបែងចែកជាក្រឡា និងផ្នែកដាច់ ៗ ពីគ្នា (Modular Cells)។ ជំនួយការវ័យក្មេងម្នាក់ឈ្មោះ Benjamin Pitezel (បុរសវ័យ ២០ ឆ្នាំ ស្លៀកពាក់អាវធំសាមញ្ញ ទឹកមុខហ្មត់ចត់ និងគោរពកោតសរសើរ Holmes) ដើរចូលមកបន្ទប់ដោយកាន់ថាសកែវកាហ្វេ។  
 **Action:** Holmes sits at his desk, illuminated by the tight pool of a kerosene lamp. On the desk are large draft sheets, rulers, and compasses. He draws wall partitions and access corridors with a calm, steady hand. The layout is atypical of standard architecture, composed of disjointed, modular cells. His young assistant, Benjamin Pitezel (in his late 20s, wearing plain attire with a serious, deferential expression), enters carrying a tray with coffee.
 
-<!-- [IMAGE: H.H. Holmes planning the Murder Castle. H.H. Holmes sits in the dim drugstore back office drafting modular blueprints. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes គូរគម្រោងប្លង់មេនៃវិមាន Castle នៅក្នុងបន្ទប់ការិយាល័យ (H.H. Holmes Drafting the Castle Blueprints inside His Office)](../ep7_scene1_drafting_blueprints.png)
 
 *   **ផាយធាហ្សល (Pitezel)៖** "លោកគ្រូពេទ្យ Holmes នេះជាកាហ្វេរបស់លោក។ ខ្ញុំឃើញលោកគូរប្លង់នេះពេញមួយសប្តាហ៍ហើយ។ តើវាជាប្លង់អគារសណ្ឋាគារសម្រាប់ពិព័រណ៍ពិភពលោកមែនទេ?"  
     *   *"Dr. Holmes, your coffee. I have seen you drafting this project for over a week. Is this the design for the hotel to serve the World's Fair?"*
@@ -63,7 +63,7 @@ This seventh episode is based on the documented historical case study of the con
 **សកម្មភាព៖** Holmes អង្គុយទល់មុខភ្នាក់ងារលក់ដីធ្លីម្នាក់ឈ្មោះ លោក អាល់ឌ្រីច (Mr. Aldrich)។ នៅលើតុមានឯកសារចុះបញ្ជីកម្មសិទ្ធិដីឡូតិ៍ទទេមួយកន្លែង ដែលស្ថិតនៅកាច់ជ្រុងផ្លូវលេខ ៦៣ និង Wallace St។ Holmes ប្រើប្រាស់ឈ្មោះអត្តសញ្ញាណបោកប្រាស់របស់ខ្លួន និងបង្ហាញទឹកមុខគួរឱ្យទុកចិត្តបំផុត។ គេហុចកញ្ចប់ប្រាក់កក់ដំបូងចំនួនតិចតួច ព្រមទាំងលិខិតធានាឥណទានពីក្រុមហ៊ុនខ្យល់របស់គេ។  
 **Action:** Holmes sits opposite a real estate broker, Mr. Aldrich. On the desk lies the title registration for the vacant corner lot at 63rd and Wallace St. Holmes, operating under a dummy alias, projects an aura of extreme wealth and respectability. He presents a minimal cash deposit alongside credit reference letters from his shell companies.
 
-<!-- [IMAGE: H.H. Holmes negotiating with a real estate broker. He presents credentials under a dummy name. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes ជជែកពិភាក្សាទិញដីធ្លីជាមួយភ្នាក់ងារអចលនទ្រព្យ (H.H. Holmes Negotiating the Real Estate Lot)](../ep7_scene2_negotiating_lot.png)
 
 *   **លោក អាល់ឌ្រីច (Mr. Aldrich)៖** "លោក Mudgett... ឬក៏ Holmes... ឯកសារធានាឥណទានរបស់ក្រុមហ៊ុនលោកពិតជាមានរបៀបរៀបរយណាស់។ ដីឡូតិ៍កាច់ជ្រុងនេះមានតម្លៃខ្ពស់ ដោយសារវាស្ថិតនៅចំកណ្តាលតំបន់ពាណិជ្ជកម្ម Englewood ដែលកំពុងអភិវឌ្ឍ។ តើលោកគ្រោងនឹងសាងសង់អ្វីនៅលើដីនេះ?"  
     *   *"Mr. Mudgett... or Holmes... your corporate credit references are immaculate. This corner lot is highly valuable, positioned in the center of Englewood's developing commercial zone. What do you intend to construct on this site?"*
@@ -88,7 +88,7 @@ This seventh episode is based on the documented historical case study of the con
 **សកម្មភាព៖** ជញ្ជាំងឥដ្ឋនៃជាន់ទីពីរត្រូវបានសាងសង់បានពាក់កណ្តាល។ កម្មករ និងជាងសំណង់ជាច្រើននាក់កំពុងមមាញឹកនឹងការងាររៀបឥដ្ឋ និងលើកធ្នឹមឈើ។ Holmes (ស្លៀកពាក់អាវធំស្អាតបាត ពាក់ស្រោមដៃពណ៌ស) ដើរពិនិត្យការដ្ឋានសំណង់ជាមួយលោក ថូម៉ាស (Mr. Thomas) ដែលជាមេការសំណង់ និងតំណាងក្រុមហ៊ុនម៉ៅការ។ Holmes ឈប់ត្រង់ជញ្ជាំងថ្មីមួយ រួចយកម្រាមដៃស្រោមដៃពណ៌សទៅជូតតាមចន្លោះឥដ្ឋ រួចបង្ហាញស្នាមប្រឡាក់ភក់ និងឥដ្ឋមិនស្មើគ្នា។ គេបង្ហាញទឹកមុខខឹងសម្បារជាខ្លាំង និងនិយាយសំឡេងខ្លាំង ៗ ដើម្បីឱ្យកម្មករទាំងអស់ឮ។  
 **Action:** The brick walls of the second floor are half-built. Laborers and bricklayers are busy aligning bricks and hoisting heavy wooden beams. Holmes (dressed in a clean coat, wearing white gloves) walks the construction site with Mr. Thomas, the head contractor. Holmes stops at a newly laid wall section, runs his white-gloved finger along the brick joints, showing soil stains and uneven mortar. He projects cold anger, speaking loudly to ensure all workers hear.
 
-<!-- [IMAGE: H.H. Holmes firing a construction crew. He inspects the brickwork and gestures angrily while the workers stand frustrated. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes បញ្ឈប់ការងារក្រុមជាងសំណង់នៅការដ្ឋាន (H.H. Holmes Dismissing a Construction Crew)](../ep7_scene3_firing_crew.png)
 
 *   **ហូម (Holmes)៖** "លោក Thomas! មើលជញ្ជាំងកាច់ជ្រុងនេះចុះ! ឥដ្ឋរៀបមិនស្មើគ្នា និងគ្មានលំនឹងទាល់តែសោះ! នេះជាការងារអន់ថយ និងគ្រោះថ្នាក់បំផុតសម្រាប់សំណង់របស់ខ្ញុំ!"  
     *   *"Mr. Thomas! Look at this corner wall! The alignment is completely off, and the mortar is structurally unsound! This is substandard work and a severe safety hazard to my project!"*
@@ -113,7 +113,7 @@ This seventh episode is based on the documented historical case study of the con
 **សកម្មភាព៖** ពន្លឺព្រះខែជះកាត់រន្ធដំបូលដែលមិនទាន់ប្រក់ក្បឿង។ កម្រាលឈើ និងធ្នឹមដែកធំ ៗ បង្កើតជាស្រមោលវែង ៗ គួរឱ្យខ្លាច។ Holmes ឈរតែម្នាក់ឯងនៅក្នុងបន្ទប់កណ្តាល កាន់ចង្កៀងប្រេងកាត និងប្រអប់ឧបករណ៍ដែក។ គេកំពុងដំឡើងវ៉ាល់ហ្គាស និងប្រព័ន្ធបំពង់ដែកខ្មៅងងឹតទៅក្នុងជញ្ជាំងដែលទើបតែរៀបចំរួច។ គេធ្វើការយ៉ាងស្ងៀមស្ងាត់ គ្មានសំឡេងរំខានឡើយ ភ្នែកពណ៌ខៀវរបស់គេពោរពេញដោយការផ្ដោតអារម្មណ៍ខ្ពស់។  
 **Action:** Moonlight filters through the unfinished roof rafters. Raw wooden floorboards and heavy steel beams cast long, skeletal shadows. Holmes stands alone in the central room, holding a lantern and a metal toolbox. He installs brass gas valves and black iron piping configurations inside a newly bricked partition wall. He works in absolute silence, his blue eyes sharp with focus.
 
-<!-- [IMAGE: H.H. Holmes working inside the skeletal frame of the Castle at night. He installs pipes and partition walls under lantern light. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes លួចដំឡើងប្រព័ន្ធទុយោហ្គាស និងជញ្ជាំងសម្ងាត់នៅពេលយប់ (H.H. Holmes Secretly Installing Gas Pipes at Night)](../ep7_scene4_night_pipes.png)
 
 *   **ហូម (Holmes)៖** (និយាយខ្សឹបម្នាក់ឯង ពេលកំពុងបង្វិលវ៉ាល់ដែកបញ្ចូលគ្នាយ៉ាងណែន) "ជញ្ជាំងដែលជាងសំណង់សាងសង់ខុសជួរ និងច្រកផ្លូវដែលបត់បែនគ្មានរបៀបរៀបរយ... ពួកវាបានក្លាយជាប្លង់មេដ៏ល្អឥតខ្ចោះ។ គ្មានអ្នកណាអាចចងចាំ ឬគូរវាឡើងវិញបានឡើយ។ ភាពច្របូកច្របល់របស់ពួកគេ គឺជាលំដាប់លំដោយរបស់ខ្ញុំ។"  
     *   *(Whispering to himself as he tightens the iron fittings)* *"The walls they misaligned, the corridors that curve without order... they have created the perfect layout. None of them can recall or map this space. Their chaos is my absolute order."*
