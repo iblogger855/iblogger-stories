@@ -67,6 +67,9 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 8: ជាងសំណង់គ្មានឈ្មោះ (Rotated Labor)](episodes/ep-08-rotated-labor.md)**
     *   *KH*: Holmes បំបែកភាគសាងសង់ (Compartmentalization) ដោយជួលជាងសំណង់ម្តងមួយក្រុមៗ រួចដេញពួកគេចេញ និងបង្កើតក្រុមហ៊ុនខ្យល់ដើម្បីទិញសម្ភារៈជំពាក់លុយ។
     *   *EN*: Holmes executes compartmentalized project management, rotating construction crews and establishing shell companies to purchase materials on credit.
+*   **[Episode 9: ដៃគូក្នុងស្រមោល (Meeting Pitezel)](episodes/ep-09-meeting-pitezel.md)**
+    *   *KH*: Holmes បានជួប និងជួល Benjamin Pitezel ឱ្យធ្វើជាដៃស្តាំរបស់ខ្លួនក្នុងការសម្រេចគម្រោងសំណង់ និងការបោកប្រាស់។
+    *   *EN*: Holmes meets and recruits Benjamin Pitezel, establishing a partnership built on financial fraud and manipulation.
 
 
 
