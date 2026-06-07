@@ -63,7 +63,7 @@ This sixth episode is based on the documented historical case study of H.H. Holm
 **សកម្មភាព៖** នៅក្នុងបន្ទប់ទទួលភ្ញៀវដ៏កក់ក្តៅ មានចើងកនដុតអុសបំភ្លឺពន្លឺពណ៌មាស។ Myrta អង្គុយលើសាឡុង មើលទៅ Holmes ដែលកំពុងបីកូនស្រីទើបនឹងកើតគឺទារិកា Lucy ដោយការថ្នាក់ថ្នម។ គេលួងលោមក្មេងដោយសំឡេងទន់ភ្លន់ និងកាយវិការដូចជាឪពុកដែលស្រឡាញ់កូនបំផុត។ ភ្លាម ៗ នោះ រូបភាពកាត់ទៅកាន់កាច់ជ្រុងផ្លូវងងឹតនៃសណ្ឋាគារ Castle ក្នុងតំបន់ Englewood នាពេលយប់។ Holmes កំពុងឈរកាន់គំនូរប្លង់សំណង់ជញ្ជាំងពីរជាន់ ជជែកគ្នាជាមួយជាងសំណង់ដោយទឹកមុខម៉ឺងម៉ាត់ និងទាមទារការសម្ងាត់ខ្ពស់។  
 **Action:** Inside a warm living room, a fireplace glows with golden light. Myrta sits on the sofa, watching Holmes gently cradle their newborn daughter, Lucy. He cradles the infant with soft whispers and the posture of a loving, doting father. The scene suddenly cuts to the dark, rain-slicked corner of the Castle in Englewood at night. Holmes stands holding blueprint designs for the second-floor partition walls, instructing a foreman in a cold, demanding voice.
 
-<!-- [IMAGE: H.H. Holmes' domestic life in Wilmette. H.H. Holmes holds his baby daughter Lucy in a cozy Victorian parlor, with Myrta Belknap looking on. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes បីកូនស្រី Lucy ក្នុងបន្ទប់ទទួលភ្ញៀវដ៏កក់ក្តៅនៅ Wilmette (H.H. Holmes Holding Baby Lucy in a Warm Wilmette Parlor)](../wilmette_domestic_life.png)
 
 *   **ម៉ឺតា (Myrta)៖** "មើលចុះ Herman... Lucy គេងលក់លង់លក់ក្នុងដៃបងយ៉ាងស្ងប់ស្ងាត់។ បងហាក់ដូចជាហត់នឿយណាស់ក្នុងប៉ុន្មានខែនេះ ដោយសារត្រូវធ្វើដំណើរទៅមក Englewood រាល់ថ្ងៃ។"  
     *   *"Look, Herman... Lucy sleeps so peacefully in your arms. You must be exhausted these past months, traveling back and forth to Englewood every day."*
