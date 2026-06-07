@@ -38,6 +38,8 @@ This fourth episode dramatizes the critical turning point in Herman Mudgett's li
 **សកម្មភាព៖** Herman Webster Mudgett (អាយុ ២៤ ឆ្នាំ មានទឹកមុខហត់នឿយ ប៉ុន្តែមានរបាំងមុខស្ងប់ស្ងាត់) កំពុងប្រមូលឯកសារ និងប្រាក់កាក់ដាក់ក្នុងវ៉ាលីដែក។ នៅលើតុ មានដីកាកោះហៅតុលាការ និងវិក្កយបត្រជំពាក់ថ្លៃឥណទានពីបណ្តាទីក្រុងនានា ដែលគេធ្លាប់ទៅស្នាក់នៅ (ដូចជាការបោកប្រាស់ថ្លៃសម្ភារពេទ្យនៅរដ្ឋ New York និងគ្លីនិកក្លែងក្លាយនៅ Philadelphia)។ នៅខាងក្រៅទ្វារ មានសំឡេងគោះខ្លាំងៗ និងសំឡេងស្រែកខឹងសម្បាររបស់ម្ចាស់បំណុល និងភ្នាក់ងារស៊ើបអង្កេត។ Herman យកសំបុត្រកំណើត និងឯកសារឈ្មោះ «Herman Webster Mudgett» មកដុតបំផ្លាញចោលនៅក្នុងឡភ្លើងយ៉ាងត្រជាក់ស្រេប។  
 **Action:** Herman Webster Mudgett (24 years old, exhausted but wearing a cold, composed mask) packs papers and cash into his metal trunk. Scattered on his desk are court summons and unpaid credit invoices from previous jurisdictions he fled (including medical supply scams in New York and a fraudulent clinic setup in Philadelphia). Outside, heavy pounding shakes the wooden door, accompanied by the angry shouts of creditors and local investigators. Herman takes his birth certificate and papers carrying the name "Herman Webster Mudgett" and burns them in the stove.
 
+![Herman Mudgett វ័យ ២៤ ឆ្នាំ កំពុងដុតបំផ្លាញឯកសារអត្តសញ្ញាណចាស់ចោលដើម្បីគេចពីម្ចាស់បំណុល (Herman Mudgett, 24 Years Old, Burning His Old Identity Records to Evade Creditors)](../evading_creditors.png)
+
 *   **ម្ចាស់បំណុល (Creditor)៖** (ស្រែកគំហកពីខាងក្រៅ និងបុកទ្វារ) "បើកទ្វារភ្លាម លោកគ្រូពេទ្យ Mudgett! ឯងជំពាក់លុយថ្លៃថ្នាំ និងថ្លៃជួលផ្ទះពីរខែហើយ! កុំគិតថានឹងរត់គេចខ្លួនបានឱ្យសោះ!"  
     *   *(Shouting from outside, rattling the door)* *"Open the door, Dr. Mudgett! You owe money for the chemical supply and two months of rent! Don't think you can run away from this!"*
 *   **ហឺមែន (Herman)៖** (និយាយតិចៗម្នាក់ឯង សម្លឹងមើលទៅក្រដាសដែលកំពុងឆេះខ្ទេច) "Herman Mudgett... ឈ្មោះនេះបានក្លាយជាភក់ជ្រាំទៅហើយ។ គ្រាន់តែមួយឆ្នាំប៉ុណ្ណោះ ក្រោយចេញពីសាលាពេទ្យ ខ្ញុំត្រូវបង្ខំចិត្តរត់ចេញពីទីក្រុង Mooers Forks នៅ New York ព្រោះក្មេងប្រុសម្នាក់បានបាត់ខ្លួនក្រោមការមើលថែរបស់ខ្ញុំ ទាំងជំពាក់លុយថ្លៃសម្ភារសាលាគេពេញទំហឹង។ បន្ទាប់មក ខ្ញុំត្រូវលួចរត់ទាំងកណ្តាលអធ្រាត្រពី Philadelphia ព្រោះតែកុមារម្នាក់បានបាត់បង់ជីវិតដោយសារការផ្សំថ្នាំខុសរបស់ខ្ញុំ និងជំពាក់ថ្លៃផ្ទះគេថែមទៀត។ ឥឡូវនេះនៅ Moorhead គ្លីនិកបោកប្រាស់របស់ខ្ញុំត្រូវបែកការណ៍ ហើយម្ចាស់បំណុលតាមទារថ្លៃគីមីសាស្ត្រមិនឈប់... Herman Mudgett គឺជាមនុស្សទន់ខ្សោយ និងងាយរងគ្រោះ ដែលបន្សល់ទុកតែដានជើងកខ្វក់។ ដូច្នេះ គ្មានហេតុផលណាដែលត្រូវរក្សាអត្តសញ្ញាណនេះទៀតឡើយ។ សេចក្តីស្លាប់របស់ Mudgett គឺជាការចាប់ផ្តើមនៃរូបខ្ញុំពិតប្រាកដ។"  
@@ -56,6 +58,8 @@ This fourth episode dramatizes the critical turning point in Herman Mudgett's li
 
 **សកម្មភាព៖** H.H. Holmes (ឥឡូវមានរូបរាងជាវេជ្ជបណ្ឌិតវ័យក្មេង សង្ហា និងគួរឱ្យទាក់ទាញ) កំពុងអានកាសែតដែលចុះផ្សាយពីរឿងរ៉ាវរបស់ពួកមហាសេដ្ឋីឧស្សាហកម្មដូចជា Rockefeller និង Carnegie។ គេកំពុងអង្គុយទល់មុខជាមួយពាណិជ្ជករក្រុង Chicago ម្នាក់ឈ្មោះ លោក អាល់ដ្រីច (Mr. Aldrich) ដែលស្លៀកពាក់យ៉ាងប្រណីត និងជក់បារីសេហ្គា។  
 **Action:** H.H. Holmes (now presenting as a handsome, charming young doctor) reads a newspaper detailing the empires of robber barons like Rockefeller and Carnegie. He sits opposite a wealthy Chicago merchant, Mr. Aldrich, who is dressed in fine wool, smoking a cigar.
+
+![H.H. Holmes អង្គុយក្នុងទូរថភ្លើងលំដាប់ទីមួយ ជជែកជាមួយលោក Aldrich អំពីការកសាងអាណាចក្រ (H.H. Holmes Sitting in a First-Class Train Carriage, Conversing with Mr. Aldrich About Building Empires)](../chicago_train.png)
 
 *   **លោក អាល់ដ្រីច (Mr. Aldrich)៖** "ទីក្រុង Chicago មិនមែនសម្រាប់មនុស្សទន់ជ្រាយឡើយ លោកគ្រូពេទ្យវ័យក្មេង។ វាជាទីក្រុងរបស់ដែកថែប ធ្យូងថ្ម និងកម្លាំងពលកម្ម។ បើឯងមានមហិច្ឆតា ទីនោះជាកន្លែងដែលឯងអាចកសាងអាណាចក្រផ្ទាល់ខ្លួនបាន ប្រសិនបើឯងដឹងពីរបៀបគ្រប់គ្រងយន្តការអាជីវកម្ម។"  
     *   *"Chicago is no place for the sentimental, young doctor. It is a city of steel, coal, and raw labor. If you possess ambition, it is the only place where you can build an empire, provided you master the business machinery."*
@@ -78,6 +82,8 @@ This fourth episode dramatizes the critical turning point in Herman Mudgett's li
 **សកម្មភាព៖** ផ្សែងខ្មៅហុយចេញពីរថភ្លើង លាយឡំជាមួយសំឡេងមនុស្សរាប់ពាន់នាក់ សម្រែកកម្មករ និងចលនាឡានទឹកកក។ Chicago គឺជាទីក្រុងដែលរីកលូតលាស់យ៉ាងលឿន និងចលាចលបំផុត។ H.H. Holmes ដើរចុះពីរថភ្លើង កាន់វ៉ាលីដែក។ គេសម្លឹងមើលទៅលើអគារខ្ពស់ៗ និងហ្វូងមនុស្សដោយភាពស្ងប់ស្ងាត់បំផុត។ គេមិនមានអារម្មណ៍តក់ស្លុត ឬភ័យខ្លាចឡើយ មានតែការពេញចិត្តនឹងភាពស្ងៀមស្ងាត់ក្នុងចិត្តរបស់គេ កណ្តាលចលាចលទីក្រុង។  
 **Action:** Black soot pours from the train, blending with the roar of thousands of travelers, shouting teamsters, and industrial activity. Chicago is a booming, chaotic metropolis. H.H. Holmes steps off the passenger car, carrying his steel trunk. He gazes at the rising structures and rushing crowds with utter calm, untouched by panic.
 
+![H.H. Holmes ឈានជើងចុះពីរថភ្លើង ឈរនៅលើផ្លាកទម្រង់ស្ថានីយរថភ្លើងដ៏មមាញឹកក្រុង Chicago (H.H. Holmes Stepping Off the Train, Standing on the Busy Chicago Train Station Platform)](../chicago_arrival.png)
+
 *   **ហូម (Holmes)៖** (សម្លឹងមើលហ្វូងមនុស្ស និយាយតិចៗ) "ទីក្រុងដ៏ធំ គឺជាកន្លែងលាក់ខ្លួនដ៏ល្អបំផុត។ មនុស្សរាប់ម៉ឺននាក់ដើរកាត់គ្នាដោយមិនស្គាល់ឈ្មោះ។ គ្មាននរណាម្នាក់ដឹងថាអ្នកជិតខាងរបស់ខ្លួនជានរឡើយ។ នៅក្នុងចលាចលនេះ ខ្ញុំនឹងកសាងវិមានផ្ទាល់ខ្លួនរបស់ខ្ញុំ។"  
     *   *(Looking at the faceless crowd, whispering)* *"A great city is the ultimate shield. Tens of thousands pass each other without names. No one knows who their neighbor is. In this chaos, I will construct my private sanctuary."*
 
@@ -94,6 +100,8 @@ This fourth episode dramatizes the critical turning point in Herman Mudgett's li
 
 **សកម្មភាព៖** H.H. Holmes ដើរតាមដងផ្លូវកខ្វក់នៃជាយក្រុង Englewood។ គេឈប់នៅមុខឱសថស្ថានមួយដែលចាស់ និងមានសភាពស្ងប់ស្ងាត់។ តាមរយៈបង្អួចកញ្ចក់ គេមើលឃើញលោកស្រី Elizabeth Holton (ស្ត្រីចំណាស់ ទឹកមុខហត់នឿយ និងមានទុក្ខសោក) កំពុងរៀបចំថ្នាំតែម្នាក់ឯង។ Holmes បើកទ្វារដើរចូលមកដោយប្រើស្នាមញញឹមដ៏ទាក់ទាញ មន្តស្នេហ៍ និងសំឡេងទន់ភ្លន់គួរឱ្យទុកចិត្តបំផុត។  
 **Action:** H.H. Holmes walks down the muddy streets of Englewood. He stops before a quiet, traditional drugstore. Through the glass, he observes Mrs. Elizabeth Holton—an elderly, exhausted woman carrying visible grief—stocking shelves alone. Holmes opens the door, presenting his most polished, charming smile and a soothing, professional voice.
+
+![H.H. Holmes ជួបលោកស្រី Holton ជាលើកដំបូងនៅក្នុងឱសថស្ថានរបស់នាង (H.H. Holmes Meeting Mrs. Holton for the First Time in Her Drugstore)](../holton_drugstore.png)
 
 *   **លោកស្រី ហូលតុន (Mrs. Holton)៖** (ងើបមុខឡើងទាំងហត់នឿយ) "សូមស្វាគមន៍... តើលោកចង់រកទិញថ្នាំអ្វីដែរ?"  
     *   *(Looking up wearily)* *"Welcome... how may I help you this evening?"*

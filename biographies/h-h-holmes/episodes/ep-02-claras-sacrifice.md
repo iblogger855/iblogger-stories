@@ -38,6 +38,8 @@ This second episode dramatizes how Herman Mudgett (later H.H. Holmes) transition
 **សកម្មភាព៖** Herman Mudgett (អាយុ ១៦ ឆ្នាំ ស្លៀកពាក់ស្អាតបាត សក់សិតរៀបរយ និងមានទឹកមុខត្រជាក់ស្ងប់) កំពុងឈរនៅមុខក្តារខៀន បង្រៀនសិស្សតូច ៗ ចំនួន ១៥ នាក់។ គេប្រើប្រាស់សំឡេងស្ងប់ស្ងាត់ ប៉ុន្តែម៉ឺងម៉ាត់បំផុត។ គ្មានការវាយដំរាងកាយដូចឪពុកគេឡើយ ប៉ុន្តែគេប្រើអំណាចផ្លូវចិត្តដើម្បីគ្រប់គ្រងសិស្ស។  
 **Action:** Herman Mudgett (16 years old, neatly dressed, hair combed back with a cold, poised expression) stands before a blackboard teaching 15 younger students. He uses a calm but intensely firm voice. Avoiding the physical violence of his father, he exerts psychological dominance to command order.
 
+![Herman Mudgett វ័យ ១៦ ឆ្នាំ កំពុងបង្រៀនសិស្សនៅក្នុងថ្នាក់រៀនសាលាក្រុង Alton (Herman Mudgett, 16 Years Old, Teaching Students in the Alton Classroom)](../alton_classroom.png)
+
 *   **ហឺមែន (Herman)៖** "ច្បាប់ និងសណ្តាប់ធ្នាប់ គឺជាអ្វីដែលបែងចែកមនុស្សចេញពីសត្វលោក។ អ្នកណាដែលមិនគោរពច្បាប់ នឹងត្រូវដកហូតសិទ្ធិស្មើភាពគ្នា។ ចូរសរសេរមេរៀនឡើងវិញឱ្យបានស្ងៀមស្ងាត់បំផុត។"  
     *   *"Rules and order are what separate man from beasts. Anyone who violates these boundaries forfeits their right to participate. Copy the board in absolute silence."*
 *   **សិស្សប្រុសម្នាក់ (Young Student)៖** (និយាយតិច ៗ ទាំងភ័យខ្លាច) "លោកគ្រូ Mudgett... ខ្ញុំមិនយល់ពីលំហាត់នេះទេ..."  
@@ -58,6 +60,8 @@ This second episode dramatizes how Herman Mudgett (later H.H. Holmes) transition
 
 **សកម្មភាព៖** Herman Mudgett (អាយុ ១៧ ឆ្នាំ ឥឡូវមានរូបរាងជាយុវជនសមរម្យ និងគួរឱ្យទុកចិត្ត) កំពុងអង្គុយនៅក្នុងបន្ទប់ទទួលភ្ញៀវជាមួយ Clara Lovering (អាយុ ១៨ ឆ្នាំ នារីស្លូតត្រង់ កូនស្រីម្ចាស់កសិដ្ឋានមានទ្រព្យ) និងឪពុករបស់នាងគឺលោក John Lovering។ Herman ប្រើសម្តីផ្អែមល្ហែម និងបង្ហាញភាពថ្លៃថ្នូរដើម្បីទាក់ទាញចិត្តគ្រួសារនេះ។  
 **Action:** Herman Mudgett (17 years old, now presenting as a respectable and trustworthy young man) sits in the parlor with Clara Lovering (18 years old, innocent daughter of a wealthy farmer) and her father, John Lovering. Herman deploys his polished charm to gain their confidence.
+
+![Herman Mudgett វ័យ ១៧ ឆ្នាំ ប្រើប្រាស់មន្តស្នេហ៍ល្បួងបោកប្រាស់ក្រុមគ្រួសាររបស់ Clara (Herman Mudgett, 17 Years Old, Deploying His Charm to Court Clara's Family)](../clara_courtship.png)
 
 *   **ហឺមែន (Herman)៖** "លោកពុក Lovering បទពិសោធន៍ជាគ្រូបង្រៀនរបស់ខ្ញុំ បានធ្វើឱ្យខ្ញុំយល់ច្បាស់ពីតម្រូវការសណ្តាប់ធ្នាប់ និងការអប់រំ។ ខ្ញុំចង់បន្តការសិក្សាផ្នែកវេជ្ជសាស្ត្រ ដើម្បីបំរើដល់សង្គមជាតិ តែថ្លៃសិក្សាពិតជាធំធេងណាស់..."  
     *   *"Mr. Lovering, my experience as a teacher has deepened my respect for order and education. I wish to pursue medical studies to serve society, though the tuition is quite substantial..."*
@@ -82,6 +86,8 @@ This second episode dramatizes how Herman Mudgett (later H.H. Holmes) transition
 **សកម្មភាព៖** Herman អង្គុយវះកាត់សត្វកណ្តុរងាប់នៅលើតុ ភ្នែកសម្លឹងមើលគំនូរប្លង់កាយវិភាគវិទ្យា។ បន្ទប់ពោរពេញដោយភាពត្រជាក់ និងងងឹត។ Clara (ឥឡូវជាភរិយារបស់គេ) ដើរចូលមកបន្ទប់ទាំងហត់នឿយខ្លាំង ដោយហុចកាបូបលុយតូចមួយឱ្យគេ។  
 **Action:** Herman sits dissecting a dead mouse at his desk, his eyes studying anatomy sketches. The room is dark and cold. Clara (now his wife) enters physically drained, handing him a small purse of money.
 
+![Herman Mudgett វ័យ ១៨ ឆ្នាំ អង្គុយវះកាត់សត្វដោយព្រងើយកន្តើយនឹងភរិយា (Herman Mudgett, 18 Years Old, Dissecting a Mouse While Ignoring His Wife Clara)](../burlington_room.png)
+
 *   **ក្លារ៉ា (Clara)៖** "Herman នេះជាប្រាក់ទាំងអស់ដែលអូនរកបានពីការងាររោងចក្រក្នុងសប្តាហ៍នេះ... និងលុយដែលលោកពុកផ្ញើមកបន្ថែម។ ខ្លួនប្រាណអូនឈឺចាប់ និងហត់នឿយខ្លាំងណាស់..."  
     *   *"Herman, here is all the money I earned from the textile mill this week... and the extra funds from father. My body aches, and I am so exhausted..."*
 *   **ហឺមែន (Herman)៖** (ទទួលយកកាបូបលុយដោយមិនងាកមើលមុខនាង) "ល្អណាស់ Clara។ ប៉ុន្តែថ្លៃសាលានៅឆ្នាំក្រោយនឹងត្រូវបង់មុនកាលកំណត់។ ចូរប្រាប់ឪពុកអូនឱ្យផ្ទេរលុយមកបន្ថែមទៀតភ្លាម ៗ មក។"  
@@ -104,6 +110,8 @@ This second episode dramatizes how Herman Mudgett (later H.H. Holmes) transition
 
 **សកម្មភាព៖** Herman ឈរកាន់វ៉ាលីដែក រៀបចំឡើងរថភ្លើងទៅកាន់រដ្ឋ Michigan ដើម្បីបន្តការសិក្សាពេទ្យ។ Clara ឈរយំឱបកូនប្រុសទើបនឹងកើតរបស់ពួកគេគឺ Robert ទាំងអស់សង្ឃឹម។  
 **Action:** Herman stands holding a metal trunk, preparing to board a train to Michigan for medical school. Clara stands weeping, holding their newborn son, Robert, in despair.
+
+![Herman Mudgett វ័យ ១៩ ឆ្នាំ ឡើងរថភ្លើងបោះបង់ភរិយានិងកូនប្រុស Robert ចោល (Herman Mudgett, 19 Years Old, Boarding the Train and Abandoning His Wife and Son Robert)](../burlington_station.png)
 
 *   **ក្លារ៉ា (Clara)៖** "Herman! បងយកលុយរបស់គ្រួសារអូនទាំងអស់ទៅហើយ... ហេតុអ្វីបងមិនឱ្យអូន និងកូនទៅជាមួយផង? តើបងបោះបង់ពួកយើងចោលមែនទេ?"  
     *   *"Herman! You took all of my family's money... why won't you let us come with you? Are you abandoning us?"*

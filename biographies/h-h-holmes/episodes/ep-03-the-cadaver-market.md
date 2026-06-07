@@ -38,6 +38,8 @@ This third episode follows Herman Mudgett during his medical studies at the Univ
 **សកម្មភាព៖** Herman Webster Mudgett (អាយុ ២១ ឆ្នាំ ស្លៀកពាក់អាវក្រៅពេទ្យពណ៌សស្អាត) កំពុងឈរក្បែរតុដែកដែលមានសាកសពមនុស្សស្រោបដោយក្រណាត់កៅស៊ូ។ និស្សិតពេទ្យដទៃទៀតមានទឹកមុខស្លេកស្លាំង ខ្លះខ្ទប់ច្រមុះដោយសារក្លិនថ្នាំ formaldehyde និងក្លិនស្អុយរលួយ។ ប៉ុន្តែ Herman បង្ហាញទឹកមុខស្ងប់ស្ងាត់ និងដកដង្ហើមចូលយ៉ាងវែង ហាក់បីដូចជាមានអារម្មណ៍ផាសុកភាពជាខ្លាំង។  
 **Action:** Herman Webster Mudgett (21 years old, wearing a clean white medical apron) stands beside a steel table holding a rubber-sheeted human cadaver. Other medical students look pale, some covering their noses to block the pungent smell of formaldehyde and decay. Herman, however, exhibits a calm expression, taking a deep breath as if finding absolute comfort in the room.
 
+![Herman Webster Mudgett វ័យ ២១ ឆ្នាំ ឈរនៅក្នុងបន្ទប់កាយវិភាគវិទ្យាដ៏ត្រជាក់ (Herman Webster Mudgett, 21 Years Old, Standing in the Cold Anatomy Laboratory)](../ann_arbor_lab.png)
+
 *   **សាស្ត្រាចារ្យ ហឺដម៉ាន់ (Professor Herdman)៖** "នៅចំពោះមុខអ្នកទាំងអស់គ្នា គឺជាគ្រឿងម៉ាស៊ីនដ៏អស្ចារ្យបំផុតរបស់ធម្មជាតិ។ វាមិនវិលវល់ មិននិយាយស្តី និងត្រៀមខ្លួនជាស្រេចសម្រាប់ការសិក្សា។ នៅក្នុងបន្ទប់នេះ អ្នកត្រូវតែទុកអារម្មណ៍ និងក្តីមេត្តារបស់អ្នកនៅខាងក្រៅទ្វារ។ គ្រប់សរសៃឈាម និងឆ្អឹងនីមួយៗ គ្រាន់តែជាផ្នែកនៃយន្តការរូបវន្តប៉ុណ្ណោះ។"  
     *   *"Before you lies nature's most intricate machine. It is still, silent, and ready for dissection. In this hall, you must leave your emotions and sentiments at the door. Every vessel and bone is merely a component of a physical mechanism."*
 *   **និស្សិតពេទ្យម្នាក់ (Classmate)៖** (និយាយទាំងចង់ក្អួត) "លោកសាស្ត្រាចារ្យ... ខ្ញុំមិនអាចទ្រាំនឹងក្លិននេះបានទេ... វាហាក់ដូចជាព្រលឹងរបស់ពួកគេនៅវិលវល់នៅទីនេះ..."  
@@ -58,6 +60,8 @@ This third episode follows Herman Mudgett during his medical studies at the Univ
 
 **សកម្មភាព៖** Herman កំពុងអង្គុយគូរគំនូរប្លង់ឆ្អឹងនៅក្នុងបន្ទប់ក្រោមដីដ៏ងងឹតស្រអាប់។ គេស្រាប់តែឮសំឡេងរទេះសេះ និងការខ្សឹបខ្សៀវគ្នានៅខាងក្រៅទ្វារដែក។ គេក៏ពន្លត់ភ្លើងចង្កៀង និងពួននៅក្នុងស្រមោលជញ្ជាំង។ យុវជនពីរនាក់ដែលជាអ្នកលួចជីកសាកសព (Resurrectionists) បានរុញរទេះឈើមួយដែលមានសាកសពស្រោបដោយបាវធ្យូងចូលមក ជួបជាមួយជំនួយការមន្ទីរពិសោធន៍។  
 **Action:** Herman is sketching skeletal charts in the dimly lit basement. He hears the sound of a carriage and hushed voices outside the heavy iron door. Extinguishing his gas lamp, he retreats into the deep shadows. Two body snatchers (resurrectionists) wheel in a wooden cart carrying a fresh corpse wrapped in coal sacks, meeting the lab assistant.
+
+![Herman ឃ្លាំមើលការជួញដូរសាកសពពីក្រោយស្រមោលងងឹត (Herman Watching the Black Market Corpse Transaction from the Shadows)](../resurrectionist_delivery.png)
 
 *   **អ្នកលួចសាកសពទី ១ (Grave Robber 1)៖** "សាកសពនេះទើបតែជីកចេញពីផ្នូរថ្មីៗកាលពីល្ងាចមិញប៉ុណ្ណោះ។ សាច់នៅណែនល្អ គ្មានស្លាកស្នាមខូចខាតឡើយ។ ហានិភ័យឥឡូវធំណាស់ ប៉ូលីសយាមកាមខ្លាំង ពួកយើងសុំសាមសិបដុល្លារសម្រាប់ការដឹកជញ្ជូននេះ។"  
     *   *"This one was lifted from a fresh grave just this evening. The tissue is intact, no damage. The risks are high now with the town sheriff patrol, we want thirty dollars for this delivery."*
@@ -80,6 +84,8 @@ This third episode follows Herman Mudgett during his medical studies at the Univ
 **សកម្មភាព៖** Herman ស្ថិតនៅក្នុងបន្ទប់ពិសោធន៍តែម្នាក់ឯង ដោយមានចង្កៀងហ្គាសមួយបំភ្លឺ។ នៅលើតុវះកាត់ មានសាកសពបុរសម្នាក់ដែលសាលាពេទ្យបានទិញមក។ Herman យកដបកែវដែលមានអាស៊ីតនីទ្រិច (Nitric Acid) មកកាន់ រួចរៀបចំឧបករណ៍វះកាត់ធ្មេញ និងឡាម។ គេចាប់ផ្តើមធ្វើពិសោធន៍កែប្រែទម្រង់មុខសាកសព ដើម្បីសាកល្បងថាតើអត្តសញ្ញាណរបស់មនុស្សម្នាក់អាចលុបបំបាត់ចោលបានដោយងាយស្រួលកម្រិតណា។  
 **Action:** Herman is alone in the laboratory, illuminated by a flickering gas jet. On the dissection table lies a male cadaver purchased by the school. Herman holds a glass bottle of nitric acid, alongside dental extraction tools and a scalpel. He begins experimenting with disfiguring the corpse's facial features to test how easily a human identity can be erased.
 
+![Herman Mudgett វះកាត់កែប្រែទម្រង់មុខសាកសពដោយអាស៊ីតគីមី (Herman Mudgett Disfiguring the Cadaver Face with Chemical Acid)](../acid_experiment.png)
+
 *   **ហឺមែន (Herman)៖** (និយាយទៅកាន់សាកសពទាំងស្ងប់ស្ងាត់) "តើឯងជានរណាពីមុនមក? ជាកម្មកររោងចក្រ? ឬជាអ្នកដំណើរគ្មានផ្ទះសម្បែង? វាមិនសំខាន់ឡើយ។ នៅក្នុងបន្ទប់នេះ អតីតកាលរបស់ឯងត្រូវបានលុបចោល។ ឯងនឹងក្លាយជាអ្នកណាក៏បាន ទៅតាមអ្វីដែលខ្ញុំសរសេរនៅលើក្រដាស។ អត្តសញ្ញាណគ្រាន់តែជាសំបកក្រៅដ៏ស្តើងមួយប៉ុណ្ណោះ។"  
     *   *(Speaking softly to the corpse)* *"Who were you before? A factory laborer? A nameless traveler? It matters not. In this room, your past is deleted. You will become whoever I dictate on paper. Identity is merely a paper-thin label."*
 *   **ហឺមែន (Herman)៖** (ចាក់អាស៊ីតយឺតៗលើផ្ទៃមុខសាកសព ផ្សែងគីមីហុយឡើង និងសាច់ចាប់ផ្តើមរលាយខូចទ្រង់ទ្រាយ) "អាស៊ីតរំលាយស្បែក និងសាច់... ដង្កាប់ដកធ្មេញផ្លាស់ប្តូរទម្រង់មាត់។ ប៉ូលីស និងគ្រួសាររបស់ឯង នឹងគ្មានថ្ងៃស្គាល់ឯងឡើយ។ ឯងគឺជាវត្ថុធាតុដើមដ៏ល្អឥតខ្ចោះ។"  
@@ -98,6 +104,8 @@ This third episode follows Herman Mudgett during his medical studies at the Univ
 
 **សកម្មភាព៖** Herman អង្គុយនៅតុសរសេរកូដ និងរៀបចំឯកសារ។ លើតុមានកិច្ចសន្យាធានារ៉ាប់រងអាយុជីវិតតម្លៃ ១,០០០ ដុល្លារ ក្រោមឈ្មោះក្លែងក្លាយ «H. W. Lovering»។ លោក ជេនគីន (Jenkins) ដែលជាភ្នាក់ងារធានារ៉ាប់រង និងជាអ្នកត្រួតពិនិត្យសាកសព បានមកដល់ផ្ទះជួលមួយកន្លែង ដែល Herman បានរៀបចំដាក់សាកសពកែប្រែមុខមាត់ឱ្យដូចជាការស្លាប់ដោយគ្រោះថ្នាក់ផ្ទុះចង្ក្រានហ្គាស។  
 **Action:** Herman sits at a desk cluttered with documents. On the table is a $1,000 life insurance policy under the fictitious name "H. W. Lovering." Mr. Jenkins, an insurance inspector, arrives at a staged rented room where Herman has placed the disfigured cadaver to look like an accidental stove explosion victim.
+
+![Herman និងភ្នាក់ងារធានារ៉ាប់រងពិនិត្យសាកសពដែលរៀបចំឡើងនៅក្នុងបន្ទប់ជួល (Herman and the Insurance Inspector Examining the Staged Corpse in the Rented Room)](../staged_insurance.png)
 
 *   **ជេនគីន (Jenkins)៖** (ពិនិត្យមើលសាកសពដែលរលាកខ្លាំងលើគ្រែ និងខ្ទប់ច្រមុះ) "គ្រោះថ្នាក់នេះពិតជាគួរឱ្យរន្ធត់ណាស់ លោក Mudgett។ ផ្ទុះចង្ក្រានហ្គាសធ្វើឱ្យមុខមាត់របស់គាត់រលាកខ្ទេចមើលមិនស្គាល់ឡើយ។ ប៉ុន្តែទំហំខ្លួនប្រាណ និងប្រវត្តិធ្មេញដែលបាត់បង់ ស្របគ្នាទៅនឹងព័ត៌មាននៅក្នុងឯកសារធានារ៉ាប់រងរបស់លោក H. W. Lovering។"  
     *   *(Inspecting the badly disfigured body on the bed, covering his nose)* *"This accident is tragic, Mr. Mudgett. The stove explosion burned his face beyond recognition. However, the physical build and the dental anomalies match the records submitted for Mr. H. W. Lovering's policy."*
