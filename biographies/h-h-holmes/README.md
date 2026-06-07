@@ -82,6 +82,9 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 13: ជំនួយការសម្ងាត់ (Emeline's Arrival)](episodes/ep-13-emelines-arrival.md)**
     *   *KH*: នារីវ័យក្មេង Emeline Cigrand ត្រូវបាន Holmes ជួលឱ្យធ្វើជាលេខាធិការ និងទាក់ទាញដោយមន្តស្នេហ៍របស់គាត់។
     *   *EN*: Young Emeline Cigrand is hired by Holmes as a stenographer and becomes captivated by his charming persona.
+*   **[Episode 14: ស្នាមជើងនៅលើទ្វារដែក (The Footprint in the Vault)](episodes/ep-14-the-footprint-in-the-vault.md)**
+    *   *KH*: Holmes បង្ខាំង Emeline ក្នុងបន្ទប់ដែកមិនឮសំឡេង និងសម្លាប់នាងដោយបង្ហូរហ្គាសពុល មុនពេលលក់សាកសពនាង។
+    *   *EN*: Holmes locks Emeline inside the airtight vault, leaving her to suffocate and selling her skeleton to a medical school.
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**
     *   *KH*: វិភាគពីអំពើហឹង្សាកុមារភាព យន្តការបំបែកចិត្ត និងការវះកាត់សត្វរបស់ Young Herman តាមរយៈកែវភ្នែកនៃក្តីស្រឡាញ់ និងសេចក្តីទុក្ខសោករបស់ព្រះវរបិតា និងព្រះយេស៊ូវ។

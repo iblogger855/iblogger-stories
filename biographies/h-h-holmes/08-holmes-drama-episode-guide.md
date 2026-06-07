@@ -71,7 +71,7 @@ This serialized drama outline maps the entire Holmes-Geyer saga over **63 episod
 *   **[Ep 13: ជំនួយការសម្ងាត់ (Emeline's Arrival - Emeline Cigrand Case: Ep 1/2)](episodes/ep-13-emelines-arrival.md)**
     *   *KH*: នារីវ័យក្មេង Emeline Cigrand ត្រូវបាន Holmes ជួលឱ្យធ្វើជាលេខាធិការ និងទាក់ទាញដោយមន្តស្នេហ៍របស់គាត់។
     *   *EN*: Young Emeline Cigrand is hired by Holmes as a stenographer and becomes captivated by his charming persona.
-*   **Ep 14: ស្នាមជើងនៅលើទ្វារដែក (The Footprint in the Vault - Emeline Cigrand Case: Ep 2/2)**
+*   **[Ep 14: ស្នាមជើងនៅលើទ្វារដែក (The Footprint in the Vault - Emeline Cigrand Case: Ep 2/2)](episodes/ep-14-the-footprint-in-the-vault.md)**
     *   *KH*: Holmes បង្ខាំង Emeline ក្នុងបន្ទប់ដែកមិនឮសំឡេង និងសម្លាប់នាងដោយបង្ហូរហ្គាសពុល មុនពេលលក់សាកសពនាង។
     *   *EN*: Holmes locks Emeline inside the airtight vault, leaving her to suffocate and selling her skeleton to a medical school.
 *   **Ep 15: យុវតីនៅហាងលក់ថ្នាំ (Emily's Promise - Emily van Tassel Case: Ep 1/2)**
