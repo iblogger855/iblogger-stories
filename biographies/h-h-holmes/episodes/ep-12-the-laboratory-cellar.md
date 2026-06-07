@@ -38,7 +38,7 @@ This twelfth episode is based on the verified historical findings uncovered by t
 **សកម្មភាព៖** កម្មករដឹកជញ្ជូនពីរនាក់ កំពុងប្រឹងប្រែងទាំងញើសហូរស្រោចខ្លួន រុញច្រានឡដុតដែកប្រដាប់ដោយឥដ្ឋធន់នឹងកំដៅយ៉ាងធ្ងន់ ចុះតាមជណ្តើរឈើចង្អៀតមកកាន់បន្ទប់ក្រោមដី។ Pitezel (ជួយទប់ទាញ និងតម្រង់ទិសដៅ) បង្ហាញខ្លួនក្នុងសម្លៀកបំពាក់ការងារប្រឡាក់ដី។ Holmes (ឈរក្បែរនោះ កាន់សៀវភៅកត់ត្រា និងប៊ិច ពិនិត្យមើលការងារដោយទឹកមុខស្ងប់ស្ងាត់)។ ក្បាលកម្មករដឹកជញ្ជូនម្នាក់ងើបឡើង សម្លឹងមើលឡដុតទាំងងឿងឆ្ងល់ និងត្អូញត្អែរពីទម្ងន់ខុសធម្មតារបស់វា។  
 **Action:** Two delivery workers, drenched in sweat, struggle to maneuver a heavy, brick-lined iron furnace kiln down the narrow wooden stairs into the basement. Pitezel (assisting and guiding the alignment) appears in dust-caked work clothes. Holmes (standing nearby with a ledger and pen, monitoring the placement with a calm composure) watches. The delivery leader looks up, wiping his brow, questioning the unusual weight and scale of the apparatus.
 
-<!-- [IMAGE: H.H. Holmes and Benjamin Pitezel supervising the installation of a massive brick-lined furnace in the Castle basement. Dim lighting, brick walls. (Image generation rate-limited, to be added later)] -->
+![ការដំឡើងឡដុតដែកយក្សនៅក្នុងបន្ទប់ក្រោមដីនៃវិមាន Castle (Installing the Massive Iron Furnace in the Castle Basement)](../ep12_scene1_furnace.png)
 
 *   **មេជាងដឹកជញ្ជូន (Delivery Leader)៖** (ដកដង្ហើមធំ និយាយទាំងហត់) "លោក Howard ខ្ញុំមិនដែលដឹកឡដុតកញ្ចក់ណាធំ និងធ្ងន់បែបនេះឡើយ។ វាមានជញ្ជាំងឥដ្ឋក្រាស់ និងទ្វារដែកក្រាស់ដូចជាឡបូជាសពទៅហើយ។ តើលោកពិតជាត្រូវការកំដៅខ្លាំងដល់ថ្នាក់នេះសម្រាប់តែការពត់កញ្ចក់មែនទេ?"  
     *   *(Panting, speaking wearily)* *"Mr. Howard, I have never delivered a glass kiln this massive or heavy. It has firebrick lining and an iron door thick enough for a crematorium. Do you truly require this level of thermal output merely for shaping glass?"*
@@ -63,7 +63,7 @@ This twelfth episode is based on the verified historical findings uncovered by t
 **សកម្មភាព៖** ចង្កៀងម៉ាស៊ូតបញ្ចេញពន្លឺពណ៌លឿងនៅលើតុការិយាល័យដែលពោរពេញដោយលិខិតបញ្ជាទិញ និងឯកសារផ្លូវការ។ ឯកសារទាំងអស់មានក្បាលលិខិតវាយពុម្ពថា «Warner Glass Bending Co. - Chicago, IL»។ Holmes កំពុងសរសេរលិខិតបញ្ជាទិញសារធាតុគីមីគីឡូធំ ៗ។ Pitezel អង្គុយទល់មុខ ទឹកមុខរបស់គេបង្ហាញពីការងឿងឆ្ងល់ និងបារម្ភចំពោះបរិមាណសារធាតុគីមីដែល Holmes កំពុងកុម្ម៉ង់។  
 **Action:** A kerosene lamp casts a yellow glow across the desk, which is piled with purchase orders and corporate documents. The stationery bears the official letterhead: "Warner Glass Bending Co. - Chicago, IL." Holmes drafts orders for industrial quantities of chemical agents. Pitezel sits opposite him, his expression displaying confusion and slight anxiety regarding the volume of chemicals Holmes is ordering.
 
-<!-- [IMAGE: H.H. Holmes writing orders under the name Warner Glass Bending Co. Pitezel watches him, holding chemical brochures. (Image generation rate-limited, to be added later)] -->
+![Holmes កំពុងសរសេរលិខិតបញ្ជាទិញគីមីក្រោមឈ្មោះក្រុមហ៊ុន Warner Glass Bending Co (Holmes Drafting Chemical Orders under the Warner Glass Bending Co Banner)](../ep12_scene2_warner_glass.png)
 
 *   **ផាយធាហ្សល (Pitezel)៖** "លោក Howard... ខ្ញុំបានពិនិត្យបញ្ជីទំនិញដែលលោកឱ្យខ្ញុំទៅទទួលពីស្ថានីយរថភ្លើង។ ហេតុអ្វីបានជាយើងត្រូវការអាស៊ីតស៊ុលហ្វួរិច និងអាស៊ីតមុយរ៉ាទិចច្រើនធុងខ្លាំងបែបនេះ? ហើយថែមទាំងមានកំបោររស់រាប់បារ៉ែលទៀត។ តើអាជីវកម្មពត់កញ្ចក់ពិតជាប្រើប្រាស់របស់ទាំងនេះច្រើនបែបនេះមែនទេ?"  
     *   *(Looking at the manifest)* *"Mr. Howard... I reviewed the freight list you asked me to retrieve from the railway depot. Why do we require so many carboys of sulfuric and muriatic acid? And barrels of quicklime as well. Does a glass-bending shop truly consume these materials in such volume?"*
@@ -88,7 +88,7 @@ This twelfth episode is based on the verified historical findings uncovered by t
 **សកម្មភាព៖** ពន្លឺភ្លើងចង្កៀងប្រេងកាតជះទៅលើតុឈើវែងក្រាស់ និងរឹងមាំមួយ ដែលត្រូវបានដំឡើងនៅកណ្តាលបន្ទប់ក្រោមដី។ Holmes (ពាក់អាវអៀមស្បែកវែងពណ៌ខ្មៅ) កំពុងរៀបចំប្រអប់ឧបករណ៍វះកាត់ធ្វើពីដែកថែប រួមមានកាំបិតវះកាត់ (Scalpels) អាបកាត់ឆ្អឹង (Bone Saws) និងដង្កៀបដែក។ Pitezel ឈរក្បែរនោះ កាន់ចង្កៀងបំភ្លឺ និងសម្លឹងមើលឧបករណ៍វះកាត់ទាំងនោះដោយក្តីព្រឺក្បាល។  
 **Action:** The light of a kerosene lantern falls on a long, heavy wooden table positioned in the center of the cellar floor. Holmes (wearing a long black leather apron) is arranging a steel case of surgical instruments, including scalpels, bone saws, and forceps. Pitezel stands nearby, holding the lantern, staring at the clinical steel with a sense of dread.
 
-<!-- [IMAGE: H.H. Holmes in a leather apron arranging surgical tools on a heavy wooden dissection table in the basement. Pitezel holds a lantern. (Image generation rate-limited, to be added later)] -->
+![Holmes រៀបចំឧបករណ៍វះកាត់នៅលើតុឈើវែងក្នុងបន្ទប់ក្រោមដី (Holmes Arranging Surgical Instruments on the Wooden Table in the Cellar)](../ep12_scene3_dissection.png)
 
 *   **ផាយធាហ្សល (Pitezel)៖** "លោក Howard... ឧបករណ៍ទាំងនេះមើលទៅដូចជាសម្ភារៈរបស់គ្រូពេទ្យវះកាត់សាកសពក្នុងមន្ទីរពេទ្យធំ ៗ។ តើលោកពិតជាចង់រៀបចំបន្ទប់ក្រោមដីនេះឱ្យទៅជាកន្លែងវះកាត់មនុស្សមែនទេ?"  
     *   *(Whispering, uneasy)* *"Mr. Howard... these instruments look like the equipment of an anatomist. Do you intend to structure this cellar as a private surgical clinic?"*
@@ -113,7 +113,7 @@ This twelfth episode is based on the verified historical findings uncovered by t
 **សកម្មភាព៖** Holmes និង Pitezel ឈរក្បែរអាងថ្មធំមួយដែលមានផ្ទុកសារធាតុរាវពណ៌ថ្លាដែលកំពុងមានចំហាយហុយតិច ៗ។ នៅចំហៀងម្ខាងទៀត មានរណ្តៅដីជ្រៅមួយដែលពោរពេញដោយម្សៅពណ៌ស (កំបោររស់)។ Holmes ប្រើដង្កៀបដែកវែង ចាប់បំណែកសាច់សត្វឆៅមួយដុំ មកទម្លាក់ចូលទៅក្នុងអាងអាស៊ីត។  
 **Action:** Holmes and Pitezel stand beside a large stone vat containing a clear liquid that emits a faint, chemical vapor. To the side lies a deep earthen pit filled with white powder (quicklime). Holmes uses long iron tongs to lower a piece of raw animal meat and bone into the chemical vat.
 
-<!-- [IMAGE: H.H. Holmes using tongs to drop animal tissue into a chemical vat in the Castle basement. Pitezel watches, shocked. (Image generation rate-limited, to be added later)] -->
+![Holmes ប្រើដង្កៀបដែកទម្លាក់សាច់សត្វចូលក្នុងអាងអាស៊ីតដើម្បីបង្ហាញ Pitezel (Holmes Dropping Animal Tissue into the Acid Vat to Demonstrate for Pitezel)](../ep12_scene4_acid_vat.png)
 
 *   **សម្លេងគីមីប្រតិកម្ម (Chemical Sound)៖** (លាន់សូរខ្សក ៗ និងមានពពុះពុះកញ្ជ្រោលឡើងភ្លាម ៗ ពេលសាច់ប៉ះសារធាតុរាវ) *[A sharp, sizzling sound as bubbles and vapor erupt upon contact.]*
 *   **ផាយធាហ្សល (Pitezel)៖** (ថយក្រោយបន្តិច យកដៃខ្ទប់ច្រមុះ) "អាស៊ីតនេះខ្លាំងណាស់ លោក Howard! សាច់នោះរលាយបាត់ភ្លាម ៗ តែម្តង។ តើវាប្រើពេលប៉ុន្មានដើម្បីរំលាយសាច់ទាំងអស់ចេញពីឆ្អឹង?"  
