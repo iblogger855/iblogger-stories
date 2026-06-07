@@ -61,6 +61,10 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 6: ជីវិតស្ទួននៅ Wilmette (The Double Life)](episodes/ep-06-the-double-life.md)**
     *   *KH*: Holmes រៀបការជាមួយ Myrta Belknap ទាំងខុសច្បាប់ (ប្តីប្រពន្ធពីរ) និងកសាងផ្ទះមួយនៅ Wilmette ដោយប្រើប្រាស់វិធីសាស្ត្របោកប្រាស់ឥណទានជាងសំណង់ ដើម្បីលាក់បាំងជីវិតពិតពីប្រពន្ធថ្មី។
     *   *EN*: Holmes bigamously marries Myrta Belknap, constructing a Queen Anne duplex in Wilmette through credit fraud while keeping his domestic life strictly separate from his Chicago crimes.
+*   **[Episode 7: ប្លង់មេនៃសេចក្តីស្លាប់ (The Secret Blueprint)](episodes/ep-07-the-secret-blueprint.md)**
+    *   *KH*: Holmes ទិញដីធ្លីទល់មុខហាង និងគូរប្លង់មេនៃវិមាន ដោយអនុវត្តគោលការណ៍ចង្វាក់ផលិតកម្មឧស្សាហកម្មទៅក្នុងសំណង់អគារដែលមានបន្ទប់សម្ងាត់។
+    *   *EN*: Holmes buys the lot across the street and drafts blueprints for the Castle, applying industrial assembly-line logic to design a labyrinth of death.
+
 
 ## ⛪ ការវិភាគបែបទេវវិទ្យា (Theology & Spiritual Reflections)
 *   **[ទស្សនៈព្រះវិញ្ញាណលើរឿងភាគទី ១ (Divine Perspective on Episode 1)](theology/ep-01-divine-perspective.md)**
