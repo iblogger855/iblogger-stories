@@ -38,7 +38,7 @@ This ninth episode is based on the documented historical case study of the relat
 **សកម្មភាព៖** Benjamin Pitezel (អាយុ ២៨ ឆ្នាំ ស្លៀកពាក់ខោអាវជាងឈើចាស់ ៗ ស្មាទម្រេត សក់ក្បាលរញ៉េរញ៉ៃ និងមានក្អកញឹកញាប់) ដើរចូលមកហាងថ្នាំដោយក្តីស្ទាក់ស្ទើរ។ ដៃរបស់គាត់គ្រើម និងប្រឡាក់ដោយធូលីឈើ។ Holmes ឈរនៅពីក្រោយបញ្ជរឱសថស្ថាន សម្លឹងមើលទៅ Pitezel ដោយការវាយតម្លៃយ៉ាងរហ័ស។ គេមើលឃើញភាពទន់ខ្សោយ បំណុល និងភាពអស់សង្ឃឹមនៅក្នុងកែវភ្នែករបស់បុរសម្នាក់នេះភ្លាម។ Pitezel លូកហោប៉ៅរកលុយមកបង់ថ្លៃថ្នាំក្អក ប៉ុន្តែជួបតែភាពទទេស្អាត។  
 **Action:** Benjamin Pitezel (28 years old, wearing worn carpenter's work clothes, with slouched shoulders, disheveled hair, and a persistent cough) enters the drugstore hesitantly. His hands are calloused and stained with sawdust. Holmes stands behind the counter, executing a rapid assessment. He immediately identifies the vulnerability, debt, and desperation in Pitezel's eyes. Pitezel fumbles through his pockets for money to pay for cough syrup, only to find them empty.
 
-<!-- [IMAGE: Benjamin Pitezel entering the drugstore looking tired. H.H. Holmes behind the counter, handing him medicine. (Image generation rate-limited, to be added later)] -->
+![Benjamin Pitezel ដើរចូលឱសថស្ថានរបស់ H.H. Holmes ដោយភាពហត់នឿយ (Benjamin Pitezel Entering H.H. Holmes' Drugstore)](../ep9_scene1_drugstore_entry.png)
 
 *   **ផាយធាហ្សល (Pitezel)៖** "ជំរាប... ជម្រាបសួរលោកគ្រូពេទ្យ។ ខ្ញុំចង់បានថ្នាំក្អកខ្លះសម្រាប់ជំងឺសួតរបស់ខ្ញុំ។ ប៉ុន្តែ... ខ្ញុំមិនទាន់រកការងារធ្វើបានទេក្នុងសប្តាហ៍នេះ។ តើខ្ញុំអាចជំពាក់លុយលោកសិនបានទេ? ខ្ញុំមានប្រពន្ធ និងកូនប្រាំនាក់ត្រូវមើលថែ..."  
     *   *"Good... Good afternoon, Doctor. I require some cough syrup for my chest. However... I have found no steady construction work this week. Could I settle the bill later? I have a wife and five children to support..."*
@@ -63,7 +63,7 @@ This ninth episode is based on the documented historical case study of the relat
 **សកម្មភាព៖** បន្ទប់ងងឹតមួយដែលពោរពេញដោយគំនរគ្រឿងសង្ហារិមឈើប្រណីត កម្រាលព្រំមានតម្លៃ និងអំពូលបំភ្លឺដែលបញ្ជាទិញជំពាក់លុយគេ។ Holmes និង Pitezel ឈរជាមួយគ្នានៅមុខទ្វារសម្ងាត់មួយ។ Holmes យកដុំលុយក្រដាសហាសិបដុល្លារចេញពីហោប៉ៅ រួចហុចទៅឱ្យ Pitezel ដោយសម្លឹងមើលភ្នែករបស់គាត់ចំដើម្បីសង្កេតប្រតិកម្ម។  
 **Action:** A dim storeroom is piled with expensive mahogany furniture, rolled velvet carpets, and lighting fixtures acquired on credit. Holmes and Pitezel stand near a hidden partition door. Holmes pulls a roll of fifty-dollar bills from his vest, presenting it to Pitezel while locking eyes to gauge his reaction.
 
-<!-- [IMAGE: H.H. Holmes handing a stack of cash to Benjamin Pitezel. Pitezel is hesitant, looking at the money in his calloused hand. (Image generation rate-limited, to be added later)] -->
+![H.H. Holmes ហុចលុយឱ្យទៅ Benjamin Pitezel ក្នុងបន្ទប់ការិយាល័យ (H.H. Holmes Handing Cash to Benjamin Pitezel)](../ep9_scene2_cash_handover.png)
 
 *   **ហូម (Holmes)៖** "Pitezel ថ្ងៃស្អែក ភ្នាក់ងារទារបំណុលរបស់ក្រុមហ៊ុនគ្រឿងសង្ហារិមនឹងមកឆែកឆេរអគារនេះ ដោយសារមានការយឺតយ៉ាវរដ្ឋបាលលើគណនីរបស់ខ្ញុំ។ ខ្ញុំចង់ឱ្យលោកជួយរើគ្រឿងសង្ហារិមទាំងអស់នេះទៅលាក់នៅក្នុងបន្ទប់សម្ងាត់ខាងក្រោយជញ្ជាំងពីរជាន់ ដែលលោកបានសាងសង់រួច។"  
     *   *"Pitezel, tomorrow a collection agent from the furniture firm will inspect this building due to an administrative delay on my accounts. I need you to relocate these pieces into the double-walled secret room you framed yesterday."*
@@ -88,7 +88,7 @@ This ninth episode is based on the documented historical case study of the relat
 **សកម្មភាព៖** Pitezel កំពុងវាស់ និងបាញ់ខ្ទាស់បន្ទះក្តារបន្ទះឈើធំ ៗ ដើម្បីសាងសង់ជញ្ជាំងឈើក្លែងក្លាយបិទបាំងទ្វារដែកសុវត្ថិភាពដ៏ធំធ្ងន់ (Walk-in Vault)។ Holmes ឈរក្បែរនោះ សម្លឹងមើលទៅទ្វារដែកដែលគ្មានប្រព័ន្ធខ្យល់ ឬរន្ធបង្ហូរខ្យល់ចេញចូលឡើយ។ Pitezel ឈប់គោះញញួរ រួចចង្អុលបង្ហាញពីភាពមិនប្រក្រតីខ្លះ។  
 **Action:** Pitezel measures and hammers heavy pine panels to construct a false wooden partition wall, completely concealing the massive steel walk-in safe. Holmes stands nearby. Pitezel stops hammering, pointing out a structural anomaly in the safe design.
 
-<!-- [IMAGE: Benjamin Pitezel hammering wooden boards to disguise the steel vault. H.H. Holmes stands nearby watching. (Image generation rate-limited, to be added later)] -->
+![Benjamin Pitezel រៀបចំជញ្ជាំងឈើដើម្បីបន្លំភ្នែកបិទបាំងទូដែក (Benjamin Pitezel Disguising the Steel Vault with a False Wall)](../ep9_scene3_disguising_vault.png)
 
 *   **ផាយធាហ្សល (Pitezel)៖** "លោក Holmes ទូដែកនេះមានទំហំធំខ្លាំងណាស់ ប៉ុន្តែហេតុអ្វីបានជាទ្វាររបស់វាគ្មានប្រព័ន្ធសោសុវត្ថិភាពពីខាងក្នុង និងគ្មានរន្ធខ្យល់ចេញចូលសោះបែបនេះ? ប្រសិនបើមាននរណាម្នាក់ជាប់គាំងនៅខាងក្នុង ពួកគេនឹងថប់ដង្ហើមស្លាប់ក្នុងរយៈពេលមិនដល់មួយម៉ោងឡើយ។"  
     *   *"Mr. Holmes, this safe is built like a vault, but why does the steel door lack an internal release latch or a single ventilation shaft? If a clerk were to get locked inside, they would suffocate within an hour."*
