@@ -70,6 +70,10 @@ Welcome to the dedicated biography and analysis series on the infamous Gilded Ag
 *   **[Episode 9: ដៃគូក្នុងស្រមោល (Meeting Pitezel)](episodes/ep-09-meeting-pitezel.md)**
     *   *KH*: Holmes បានជួប និងជួល Benjamin Pitezel ឱ្យធ្វើជាដៃស្តាំរបស់ខ្លួនក្នុងការសម្រេចគម្រោងសំណង់ និងការបោកប្រាស់។
     *   *EN*: Holmes meets and recruits Benjamin Pitezel, establishing a partnership built on financial fraud and manipulation.
+*   **[Episode 10: ជញ្ជាំងនិងអន្ទាក់ (The Castle Completed)](episodes/ep-10-the-castle-completed.md)**
+    *   *KH*: ការសាងសង់អាគារជាន់ទីពីរត្រូវបានបញ្ចប់ ដែលមានបន្ទប់ហ្គាសពុល បន្ទប់ឡដុត និងរន្ធទម្លាក់សាកសព។
+    *   *EN*: The second floor is completed, featuring gas chambers, hidden chutes, and asbestos-lined vault rooms.
+
 
 
 
