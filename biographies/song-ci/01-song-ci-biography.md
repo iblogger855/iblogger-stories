@@ -1,4 +1,4 @@
-# The Biography of Song Ci (ជីវប្រវត្តិសុង ស៊ី)
+# The Biography of Song Ci (ជីវប្រវត្តិសុង ឈី)
 
 **Author:** ichamrong  
 **Date:** 2026-06-11  
